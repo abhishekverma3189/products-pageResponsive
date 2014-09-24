@@ -7,7 +7,11 @@ li{
 .font-huge{
   font-size: 8em;
 }
-.sec_1{
+
+.orbit-container .orbit-slides-container img {
+  display: inherit;
+  margin: 0 auto;
+}.sec_1{
   background: #28BE9B;
 }
 .sec_2
