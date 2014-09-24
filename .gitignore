@@ -1,0 +1,2 @@
+# removes os generated files
+*.DS_STORE
